@@ -1,0 +1,50 @@
+.class_body {
+    font-family: sans-serif;
+    background-color: #fff;
+}
+
+
+
+.class_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span {
+    position: absolute; /* Posiciona el texto dentro del div */
+    top: 95%; /* Centra verticalmente */
+    left: 50%; /* Centra horizontalmente */
+    transform: translate(-50%, -50%); /* Ajusta el punto de origen al centro del texto */
+    color: #000; /* Cambia el color del texto */
+    font-size: 24px; /* Tamaño de la fuente */
+    text-align: center; /* Centra el texto */
+    font-weight: 700;
+}
+
+.class_2image {
+    display: block;
+    margin-left: auto ;
+    margin-right: auto ;
+    border-radius: 10px;
+}
+
+.class_3image {
+    display: block;
+    margin-top: auto;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.class_4image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+
+
+
